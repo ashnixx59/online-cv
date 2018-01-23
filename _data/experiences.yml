@@ -1,4 +1,11 @@
 - experience:
+  role: Tutor
+  time: 2018 - Present
+  company: Florida Interantional University, Hardware Lab
+  details: "
+  Worked one on one with various students on computer operating systems assignments and concepts.
+  "
+- experience:
   role: Secretary
   time: 2015 - Present
   company: Vito Transport, Miami
@@ -16,7 +23,7 @@
   Scheduled appointments for the director of the Speech Pathology program and the professors in the department.
   Assisted Professors with their work during down times.
   "
-- experience: |
+- experience: 
   role: Relevant Coursework
   time: 
   company: 
