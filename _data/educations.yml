@@ -1,13 +1,12 @@
 - education:
   degree: Bachelor of Science in Information Technology
   university: Florida International University
-  Gpa: 3.42
   time: 2015 - Present
 - education:
   degree: High School
   university: Doral Academy Preparatory High School
   time: 2011 - 2015
--education:
+- education:
   degree: Relevant Coursework
-  university:  Programming I, Discrete Structures, Technology in the Global Arena, Programming II, 
-  Computer OS, Fundamental Computer Systems, Human Computer Interaction
+  university: Programming I, Discrete Structures, Technology in the Global Arena, Programming II,
+  time: Computer OS, Fundamental Computer Systems, Human Computer Interaction
